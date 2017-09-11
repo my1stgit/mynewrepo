@@ -1,0 +1,19 @@
+imsettings information
+==========================
+Is DBus enabled: yes
+Is imsettings enabled: yes
+Is GTK+ supported: yes
+Is Qt supported: no
+DESKTOP_SESSION: gnome
+DISABLE_IMSETTINGS: 
+IMSETTINGS_DISABLE_DESKTOP_CHECK: 
+DBUS_SESSION_BUS_ADDRESS: unix:abstract=/tmp/dbus-yPV3mVBVm4,guid=9448b964f3dc4a20227f5856000000de
+GTK_IM_MODULE: 
+QT_IM_MODULE: xim
+XMODIFIERS: @im=none
+IMSETTINGS_MODULE: none
+IMSETTINGS_INTEGRATE_DESKTOP: yes
+
+
+IM-Settings-Daemon[2792]: WARNING **: Unable to monitor /root/.xinputrc: Error stating file '/root/.xinputrc': No such file or directory
+IM-Settings-Daemon[2792]: INFO: Current IM is: none
